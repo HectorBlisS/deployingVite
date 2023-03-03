@@ -6,7 +6,9 @@ import GetData from './Test'
 function App() {
   return (
     <div className="App">
+      <h2>Blissmo</h2>
       <GetData />
+      
     </div>
   )
 }
